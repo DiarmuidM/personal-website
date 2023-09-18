@@ -35,7 +35,7 @@ sections:
           company_url: 'https://www.birmingham.ac.uk/research/tsrc/index.aspx'
           company_logo: 
           location: Birmingham
-          date_start: '2017-11-01 '
+          date_start: '2017-11-01'
           date_end: '2021-08-01'
   - block: collection
     id: posts
