@@ -22,7 +22,7 @@ organizations:
     url: https://research-portal.uws.ac.uk/en/persons/diarmuid-mcdonnell
 
 # Short bio (displayed in user profile at end of posts)
-bio: Diarmuid McDonnell is a sociologist with research interests in the distribution and regulation of chariable organisations.
+bio: Diarmuid McDonnell is a sociologist with research interests in the distribution and regulation of charitable organisations.
 
 # Interests to show in About widget
 interests:

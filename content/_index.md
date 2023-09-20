@@ -37,6 +37,19 @@ sections:
           location: Birmingham
           date_start: '2017-11-01'
           date_end: '2021-08-01'
+  - block: grants
+    content:
+      title: Research and teaching grants
+      text: '*The ecosystem of support organisations during the Cost-of-Living crisis*, British Academy Early Career Researcher Network Seed Funding, Principal Investigator. Award value: £1,380.'
+      text: '*Improving access to and use of organisation-level data on the third sector and civil society*, Economic and Social Research Council, Co-Investigator. Award value: £680,919.'
+      text: '*Creative and Computational Methods for Working with Digital Footprint Data*, Scottish Graduate School of Social Science and the Scottish Graduate School for Arts & Humanities, Principal Investigator. Award value: £1,000.'
+      text: '*Data for Good: The Voluntary, Community and Social Enterprise Sector in Britain*, Festival of Social Science, Co-Investigator. Award values: £1,500.'
+      text: '*Mission Accomplished? A Cross-national Examination of Charity Dissolution*, British Academy, Principal Investigator. Award value: £9,879.65.'
+  - block: teaching
+    content:
+      title: Teaching
+      text: 'I have methodological and teaching interests in the use of administrative data, quantitative methods and computational social science. I have been commissioned to deliver and develop training courses and materials for the National Centre for Research Methods, Scottish Graduate School of Social Science, and Wales Institute of Social and Economic Research and Data.'
+      text: 'Many of my teaching materials are public and can be found at my Github account: [https://github.com/DiarmuidM](https://github.com/DiarmuidM)'
   - block: collection
     id: posts
     content:
@@ -79,14 +92,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
